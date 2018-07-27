@@ -225,6 +225,10 @@ Variation9=Designator=R7|UniqueId=\YTXDVDYF\DYTPKYIV|Kind=1|AlternatePart=
 Variation10=Designator=IC19|UniqueId=\ICTBHHQO\TVLJEEXM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Sampler\Panel\Panel_Sampler.DXF
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
