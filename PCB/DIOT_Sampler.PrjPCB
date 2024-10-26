@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DEMTEDLO
 
 [Document9]
-DocumentPath=pcb\DIOT_Sampler.PCBDOC
+DocumentPath=pcb\DIOT_Sampler 20spacin.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -338,23 +338,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
-DocumentPath=sch\Adapter.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TVZWZPUV
-
 [ProjectVariant1]
 UniqueId=91D7E02D-192B-4E49-B55D-86EE28FE8439
 Description=STD
@@ -403,11 +386,7 @@ UniqueId=E0995457-C054-4470-9609-35D31DFE03E0
 Description=4HP
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
-Variation1=Designator=J3|UniqueId=\YHDIVBNN|Kind=1|AlternatePart=
-Variation2=Designator=J4|UniqueId=\GJYIELYD|Kind=1|AlternatePart=
-Variation3=Designator=J5|UniqueId=\LJUNNECJ|Kind=1|AlternatePart=
-Variation4=Designator=J6|UniqueId=\QHICPJMQ|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [Configuration1]
@@ -664,12 +643,6 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=PDF3D MBA
-OutputName13=PDF3D MBA
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -948,16 +921,6 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MBAExportPARASOLID
-OutputName11=Export PARASOLID
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=MBAExportSTEP
-OutputName12=Export STEP
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
