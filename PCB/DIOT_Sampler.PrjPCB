@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=Project Outputs for PCB_3U_ADC
 LogFolderPath=
 ManagedProjectGUID=
@@ -2268,8 +2268,16 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=EEM_IO.LVDS_N10|NetColor=$00FF6E6E
-Net2=NetName=EEM_IO.LVDS_P10|NetColor=$00FF6E6E
+Net1=NetName=BP_IO.LVDS_N13|NetColor=$00FF6EFF
+Net2=NetName=BP_IO.LVDS_N14|NetColor=$00FF6EFF
+Net3=NetName=BP_IO.LVDS_P13|NetColor=$00FF6EFF
+Net4=NetName=BP_IO.LVDS_P14|NetColor=$00FF6EFF
+Net5=NetName=EEM_IO.LVDS_N10|NetColor=$00FF6E6E
+Net6=NetName=EEM_IO.LVDS_N13|NetColor=$00FF6EFF
+Net7=NetName=EEM_IO.LVDS_N14|NetColor=$00FF6EFF
+Net8=NetName=EEM_IO.LVDS_P10|NetColor=$00FF6E6E
+Net9=NetName=EEM_IO.LVDS_P13|NetColor=$00FF6EFF
+Net10=NetName=EEM_IO.LVDS_P14|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0

@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\spider\Desktop\PT1000\Sampler\PCB\pcb\DIOT_Sampler.PCBDOC
-Date         : 29.10.2024
-Time         : 02:02:04
+Date         : 11.11.2024
+Time         : 03:50:02
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 99,82%
-    Connections, 1645
-    Connections routed, 1642
-    Connections remaining, 3
+    Routing completion, 99,94%
+    Connections, 1636
+    Connections routed, 1635
+    Connections remaining, 1
 count : 4
