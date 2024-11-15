@@ -287,6 +287,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=Sampler_DIOT.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YSFGLADA
+
 [ProjectVariant1]
 UniqueId=91D7E02D-192B-4E49-B55D-86EE28FE8439
 Description=STD
@@ -337,6 +354,10 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - DIOT_Sampler.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
