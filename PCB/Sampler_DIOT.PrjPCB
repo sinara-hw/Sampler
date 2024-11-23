@@ -288,23 +288,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=Sampler_DIOT.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YSFGLADA
-
-[Document16]
 DocumentPath=Sampler_DIOT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -374,6 +357,10 @@ ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - DIOT_Sampler.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - Sampler_DIOT.html
 DItemRevisionGUID=
 
 [Configuration1]
