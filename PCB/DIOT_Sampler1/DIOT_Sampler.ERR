@@ -1,8 +1,0 @@
-Component Rule Check Report for : C:\Users\spider\Desktop\PT1000\Sampler\PCB\DIOT_Sampler1\DIOT_Sampler.SCHLIB
-
-
-Name                Errors
-------------------------------------------------------------------
-MOLEX_73251-3150    (No Description) 
-74HC4066PW          (No Description) 
-BAV199              (Duplicate Pin Number : Normal: 3) 
