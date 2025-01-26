@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=Sampler.OutJob
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=STD
+VariantName=DIOT
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother DCP-L2540DN series Printer
+TargetPrinter=HP Universal Printing PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -50,7 +50,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Print
 OutputCategory2=Documentation
-OutputDocumentPath2=Sampler.PCBDOC
+OutputDocumentPath2=Sampler_DIOT.PCBDOC
 OutputVariantName2=STD
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -58,13 +58,13 @@ OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.62|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39390063|ViewY=13602661|LookAtX=49004724|LookAtY=41584644|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.0205619625437E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\33307556\2CFG3D.BOTSOLDERMASKCOLOR\33307556\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Sampler.PCBDOC
 OutputType3=PCB 3D Print
 OutputName3=Copy of PCB 3D Print
 OutputCategory3=Documentation
-OutputDocumentPath3=Sampler.PCBDOC
+OutputDocumentPath3=Sampler_DIOT.PCBDOC
 OutputVariantName3=STD
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -72,13 +72,13 @@ OutputEnabled3_OutputMedium2=3
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.62|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39390063|ViewY=13602661|LookAtX=49004724|LookAtY=41584644|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.0205619625437E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ViewConfig=|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Sampler.PCBDOC
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputCategory4=Documentation
-OutputDocumentPath4=Sampler.PCBDOC
+OutputDocumentPath4=Sampler_DIOT.PCBDOC
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -121,7 +121,7 @@ PcbPrintPreferences4=
 OutputType5=Assembly
 OutputName5=Assembly Drawings
 OutputCategory5=Assembly
-OutputDocumentPath5=Sampler.PCBDOC
+OutputDocumentPath5=Sampler_DIOT.PCBDOC
 OutputVariantName5=STD
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -172,7 +172,7 @@ PcbPrintPreferences5=
 OutputType6=Pick Place
 OutputName6=Generates pick and place files
 OutputCategory6=Assembly
-OutputDocumentPath6=Sampler.PCBDOC
+OutputDocumentPath6=Sampler_DIOT.PCBDOC
 OutputVariantName6=STD
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -183,9 +183,9 @@ OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Sampler.PCBDOC
 OutputType7=Gerber
-OutputName7=Gerber Files
+OutputName7=Sampler Gerber Files
 OutputCategory7=Fabrication
-OutputDocumentPath7=Sampler.PCBDOC
+OutputDocumentPath7=Sampler_DIOT.PCBDOC
 OutputVariantName7=
 OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
@@ -196,9 +196,9 @@ OutputDefault7=0
 Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842754~1,16777218~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Sampler.PCBDOC
 OutputType8=NC Drill
-OutputName8=NC Drill Files
+OutputName8=Sampler NC Drill Files
 OutputCategory8=Fabrication
-OutputDocumentPath8=Sampler.PCBDOC
+OutputDocumentPath8=Sampler_DIOT.PCBDOC
 OutputVariantName8=
 OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
@@ -237,7 +237,7 @@ Configuration9_Item7=Comment=100|Description=100|Designator=100|Footprint=100|Ma
 OutputType10=Board Stack Report
 OutputName10=Report Board Stack
 OutputCategory10=Fabrication
-OutputDocumentPath10=Sampler.PCBDOC
+OutputDocumentPath10=Sampler_DIOT.PCBDOC
 OutputVariantName10=
 OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
@@ -248,6 +248,20 @@ OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=LayerStackReportView|Units=Imperial|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Sampler_4HP.PCBDOC
+OutputType11=Board Stack Report
+OutputName11=Report Board Stack Metric
+OutputCategory11=Fabrication
+OutputDocumentPath11=Sampler_DIOT.PCBDOC
+OutputVariantName11=
+OutputEnabled11=1
+OutputEnabled11_OutputMedium1=0
+OutputEnabled11_OutputMedium2=6
+OutputEnabled11_OutputMedium3=6
+OutputEnabled11_OutputMedium4=0
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration11_Name1=OutputConfigurationParameter1
+Configuration11_Item1=Record=LayerStackReportView|Units=Metric|ColumnsCount=10|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=ComponentPlacement|Column6Title=Orientation|Column6Visible=False|Column7Name=CopperOrientation|Column7Title=Copper Orientation|Column7Visible=False|Column8Name=Weight|Column8Title=Weight|Column8Visible=False|Column9Name=PullbackDistance|Column9Title=Pullback distance|Column9Visible=False|DocumentPath=C:\Users\spider\OneDrive\PT1000\Sampler\PCB\pcb\Sampler_DIOT.PCBDOC
 
 [PublishSettings]
 OutputFilePath2=D:\Dropbox\DESIGNS\MTCA_projects\SINARA\ARTIQ_ALTIUM\EEMs\Sampler\PCB\Project Outputs for Sampler\Sampler.PDF
@@ -277,7 +291,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Project Outputs for Sampler\
+OutputFilePath3=C:\Users\spider\OneDrive\PT1000\Sampler\PCB\Project Outputs for Sampler \
 ReleaseManaged3=0
 OutputBasePath3=Project Outputs for Sampler\
 OutputPathMedia3=
@@ -331,14 +345,14 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=D:\Dropbox\DESIGNS\MTCA_projects\SINARA\ARTIQ_ALTIUM\EEMs\Sampler\PCB\Project Outputs for Sampler\Sampler.PDF
 OpenOutputs2=1
-RelativeOutputPath3=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\Sampler\PCB\Project Outputs for Sampler\
+RelativeOutputPath3=C:\Users\spider\OneDrive\PT1000\Sampler\PCB\Project Outputs for Sampler \
 OpenOutputs3=0
 AddToProject3=0
-TimestampFolder3=0
+TimestampFolder3=1
 UseOutputName3=0
 OpenODBOutput3=0
-OpenGerberOutput3=0
-OpenNCDrillOutput3=0
+OpenGerberOutput3=1
+OpenNCDrillOutput3=1
 OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=
