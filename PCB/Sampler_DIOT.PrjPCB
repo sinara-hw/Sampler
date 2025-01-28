@@ -305,6 +305,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYPSUYUU
 
+[Document16]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=91D7E02D-192B-4E49-B55D-86EE28FE8439
 Description=STD
@@ -441,19 +458,39 @@ DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - DIOT_Sampler.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - Sampler_DIOT.html
+DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - DIOT_Sampler_Adapter.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz9E09.xls
+DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - Sampler_DIOT.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz27CF.xls
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz8BB9.xls
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz9E09.xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz27CF.xls
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz35EA.xls
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz79E0.xls
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz99C5.xls
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz8740.xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1004,36 +1041,6 @@ OutputName12=Export STEP
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
