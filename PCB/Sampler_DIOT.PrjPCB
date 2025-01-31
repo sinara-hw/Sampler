@@ -306,7 +306,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MYPSUYUU
 
 [Document16]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=Sampler_DIOT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -454,43 +454,19 @@ Variation9=Designator=R56|UniqueId=\YTXDVDYF\DYTPKYIV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - DIOT_Sampler.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - DIOT_Sampler_Adapter.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PCB_3U_ADC\Design Rule Check - Sampler_DIOT.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=..\..\..\..\AppData\Local\Temp\QjzC19B.xls
+DItemRevisionGUID=
+
 [GeneratedDocument4]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz8BB9.xls
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz9E09.xls
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz27CF.xls
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz35EA.xls
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz79E0.xls
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz99C5.xls
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz8740.xls
+DocumentPath=..\..\..\..\AppData\Local\Temp\QjzCDF2.xls
 DItemRevisionGUID=
 
 [Configuration1]
