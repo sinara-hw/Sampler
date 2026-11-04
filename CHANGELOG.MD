@@ -119,10 +119,10 @@ Moved project version to 3.0.0
 
 **Designers:**
 - Grzegorz Kasprowicz (WUT)
-- Marta Fąfara (TS)
+- Łukasz Pająk (WUT)
 
 **Reviewers:**
 - unspecified
 
 **Contributors:**
-- Marcin Magdziak (TS)
+- unspecified
