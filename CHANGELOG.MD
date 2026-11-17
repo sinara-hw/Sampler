@@ -111,7 +111,10 @@ Updated to match DIOT Template v1.4 (both main PCB and the front panel adapter P
 
 Aligned mainboard to adapter connectors and mounting holes
 Locked position on PcbDocs
-Moved project version to 3.0.0
+Moved project version to v3.0
+Project names changed to Sampler & Sampler_Adapter
+Overlay Updated
+T_R4 & T_R7 values updated as in DIOT-Template
 
 ---
 

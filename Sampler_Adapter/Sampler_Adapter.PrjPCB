@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PCB\DIOT_Sampler_Adapter.PCBDOC
+DocumentPath=PCB\Sampler_Adapter.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MYPSUYUU
 
 [Document2]
-DocumentPath=SCH\DIOT_Sampler_Adapter.SchDoc
+DocumentPath=SCH\Sampler_Adapter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EXWNFARM
 
 [Document3]
-DocumentPath=DIOT_Sampler_Adapter.PCBDwf
+DocumentPath=Sampler_Adapter.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,35 +100,52 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKQUQIGI
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DIOT_Sampler_Adapter\Design Rule Check - DIOT_Sampler_Adapter.html
+[Document4]
+DocumentPath=Sampler_Adapter.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Parameter1]
-Name=P_version
-Value=3.0.0
+Name=
+Value=
 
 [Parameter2]
+Name=P_version
+Value=3.0
+
+[Parameter3]
 Name=P_template_version
 Value=1.4
 
-[Parameter3]
-Name=P_release_reviewers
-Value=Marcin Kiepiela (TS), Marta Fąfara (TS)
-
 [Parameter4]
-Name=P_release_owner
-Value=Krzysztof Belewicz (ISE WUT)
+Name=P_release_reviewers
+Value=Maciej Przybysz (TS), Marta Fąfara (TS)
 
 [Parameter5]
-Name=P_release_designers
-Value=Krzysztof Belewicz (ISE WUT), Grzegorz Kasprowicz (ISE WUT), Łukasz Pająk (ISE WUT)
+Name=P_release_owner
+Value=Mikołaj Sowiński (TS)
 
 [Parameter6]
+Name=P_release_designers
+Value=Krzysztof Belewicz (ISE WUT)
+
+[Parameter7]
 Name=P_github_link
 Value=https://github.com/sinara-hw/Sampler
 
-[Parameter7]
+[Parameter8]
 Name=P_copyright_owner
 Value=WUT ISE 2024-2025 · Technosystem 2025-2026
 
@@ -257,22 +274,12 @@ OutputName20=PADS ASCII Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1100,6 +1107,8 @@ Type162=1
 Type163=1
 Type164=1
 Type165=2
+Type166=2
+Type167=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNNW

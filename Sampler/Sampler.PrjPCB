@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=EEM
+CurrentVariant=DIOT
 
 [Preferences]
 PrefsVaultGUID=
@@ -153,7 +153,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=PCB\Sampler_DIOT.PCBDOC
+DocumentPath=PCB\Sampler.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MEKABQKL
 
 [Document8]
-DocumentPath=SCH\Sampler_DIOT.SchDoc
+DocumentPath=SCH\Sampler.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -480,7 +480,7 @@ UniqueId=A2FB463C-E379-4070-9A11-B2A9E4752451
 Description=EEM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=86
+VariationCount=87
 Variation1=Designator=T_J4|UniqueId=\RTXBABPE\LIDFICHD|Kind=1|AlternatePart=
 Variation2=Designator=T_J5|UniqueId=\RTXBABPE\HQYQOTEN|Kind=1|AlternatePart=
 Variation3=Designator=T_R2|UniqueId=\TAKSADSN\EZQFAHGR|Kind=1|AlternatePart==Value
@@ -757,6 +757,7 @@ ParamDesignator94=C46
 Variation86=Designator=C75|UniqueId=\TAKSADSN\OLLEWBBF\IOTJVITL|Kind=1|AlternatePart==Value
 ParamVariation95=ParameterName=Comment|VariantValue==Value
 ParamDesignator95=C75
+Variation87=Designator=T_R4|UniqueId=\TAKSADSN\TMCRZLPY|Kind=1|AlternatePart=
 ParamVariationCount=95
 
 [ProjectVariant2]
@@ -764,7 +765,7 @@ UniqueId=9B67D6B0-16CF-46F1-A082-28F39AAF0D0C
 Description=DIOT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=55
+VariationCount=56
 Variation1=Designator=C6C|UniqueId=\3QRNKONJM\DMGLCYGK|Kind=1|AlternatePart==Value
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=C6C
@@ -892,15 +893,12 @@ ParamDesignator35=C46
 Variation55=Designator=C75|UniqueId=\TAKSADSN\OLLEWBBF\IOTJVITL|Kind=1|AlternatePart==Value
 ParamVariation36=ParameterName=Comment|VariantValue==Value
 ParamDesignator36=C75
+Variation56=Designator=T_R4|UniqueId=\TAKSADSN\TMCRZLPY|Kind=0|AlternatePart=
 ParamVariationCount=36
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Sampler\Design Rule Check - Sampler_DIOT.html
-DItemRevisionGUID=
 
 [Parameter1]
 Name=P_version
-Value=3.0.0
+Value=3.0
 
 [Parameter2]
 Name=P_template_version
@@ -908,15 +906,15 @@ Value=1.4
 
 [Parameter3]
 Name=P_release_reviewers
-Value=Marcin Kiepiela (TS), Marta Fąfara (TS)
+Value=Maciej Przybysz (TS, Marta Fąfara (TS)
 
 [Parameter4]
 Name=P_release_owner
-Value=Krzysztof Belewicz (ISE WUT)
+Value=Mikołaj Sowiński (TS)
 
 [Parameter5]
 Name=P_release_designers
-Value=Krzysztof Belewicz (ISE WUT), Grzegorz Kasprowicz (ISE WUT), Łukasz Pająk (ISE WUT)
+Value=Krzysztof Belewicz (ISE WUT)
 
 [Parameter6]
 Name=P_github_link
@@ -1051,22 +1049,12 @@ OutputName20=PADS ASCII Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=HP LaserJet Professional P1102
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1938,6 +1926,8 @@ Type162=1
 Type163=1
 Type164=1
 Type165=2
+Type166=2
+Type167=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNNW
